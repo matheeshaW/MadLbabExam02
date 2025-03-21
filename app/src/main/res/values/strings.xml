@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">labexam02</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="navbarbutton1">Home</string>
+    <string name="navbarbutton2">Discover</string>
+    <string name="navbarbutton3">Rewind</string>
+    <string name="navbarbutton4">Profile</string>
+    <string name="card1title">Let Ai guess your mood </string>
+    <string name="card1descrip">Let ai guess how you are feeling and recommend songs to your liking</string>
+    <string name="card1button">Scan now</string>
+    <string name="card2title">Select your mood</string>
+    <string name="card2descrip">select and get music to fit your mood</string>
+    <string name="card2scrolmore">scroll to see more</string>
+    <string name="card3title">Quick picks</string>
+    <string name="card2music1">I wonder</string>
+    <string name="card2music2">Astronaut in the ocean</string>
+    <string name="card2music3">Panda</string>
+    <string name="searchhint">Search songs, artist, moods....</string>
+    <string name="dcard1title">Articles</string>
+    <string name="dcard1subtitle">2024 billboard top 100</string>
+    <string name="dcard1descrip">"Explore 2024’s biggest hits and trending artists from the Billboard Top 100!"</string>
+    <string name="dcar2title">For you by AI</string>
+    <string name="dcard2music1">Sky fall</string>
+    <string name="dcard2music2">Goosebumps</string>
+    <string name="dcard2music3">Tokyo Drift</string>
+    <string name="dcard3title">Trending Artist</string>
+    <string name="dcard3artist1">Kendric Lamar</string>
+    <string name="dcard3artist2">Drake</string>
+    <string name="dcard3artist3">Eminem</string>
+    <string name="rcard1title1">Listening Summary</string>
+    <string name="rcard1descrip">You\'ve listened for 120 hours this month!</string>
+    <string name="rcard1click">click to view more stats</string>
+    <string name="rcard2title">Your Top Genres</string>
+    <string name="rcard2genre1">1</string>
+    <string name="rcard2genre2">2</string>
+    <string name="rcard2genre3">3</string>
+    <string name="rcard2genre4">4</string>
+    <string name="rcard2genre5">5</string>
+    <string name="rcard2genre6">6</string>
+    <string name="rcard3card3title">Most Played Songs</string>
+    <string name="rcard3card3song1">I wonder</string>
+    <string name="rcard3card3song2">Espresso</string>
+    <string name="pcardtile">Your Profile </string>
+    <string name="pcard1useremail">Guest@email.com</string>
+    <string name="pcard2title">Favourite moods</string>
+    <string name="pcard3title">Playlists</string>
+    <string name="pcard3playlist1">Driving</string>
+    <string name="pcard3playlist2">Vibes</string>
+
+
+</resources>
