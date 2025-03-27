@@ -48,6 +48,13 @@
     <string name="pcard3title">Playlists</string>
     <string name="pcard3playlist1">Driving</string>
     <string name="pcard3playlist2">Vibes</string>
+    <string name="musicname">I Wonder</string>
+    <string name="artistname">Kanye West</string>
+    <string name="albumname">Graduation</string>
+    <string name="musictime">4:03</string>
+    <string name="musicseektime">2:53</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="relatedmusic">Related</string>
 
 
 </resources>

@@ -1,5 +1,6 @@
 package com.example.labexam02
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.widget.ImageButton
@@ -11,11 +12,19 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.labexam02.R.id.homebtn
 
 class Home : AppCompatActivity() {
+    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_home)
 
+
+        val player : ImageView = findViewById(R.id.playerbtn)
+
+        player.setOnClickListener({
+            val intent = Intent(this, Player::class.java)
+            startActivity(intent)
+        })
 
         val home : ImageView = findViewById(R.id.homebtn)
 
