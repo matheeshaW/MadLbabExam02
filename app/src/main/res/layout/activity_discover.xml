@@ -121,7 +121,7 @@
             android:layout_marginStart="9dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView4"
-            app:srcCompat="@drawable/articles" />
+            app:srcCompat="@drawable/articles2" />
 
         <ImageView
             android:id="@+id/imageView5"
@@ -173,6 +173,32 @@
             app:layout_constraintHorizontal_bias="0.629"
             app:layout_constraintStart_toStartOf="@+id/imageView14"
             app:layout_constraintTop_toTopOf="@+id/imageView14" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="160dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="220dp"
+            android:layout_marginEnd="36dp"
+            android:text="@string/dcard1descrip"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="101dp"
+            android:layout_height="41dp"
+            android:layout_marginTop="172dp"
+            android:layout_marginEnd="72dp"
+            android:text="@string/dcard1subtitle"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
